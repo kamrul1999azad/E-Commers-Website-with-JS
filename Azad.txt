@@ -1,0 +1,10 @@
+https://www.mongodb.com/products/platform/atlas-database
+Sign in
+kamrulazad2923@gmail.com
+pass:kamrul1999@azad
+
+Select Database & then browse collection
+
+Admin login
+username : admin
+password: 13245
